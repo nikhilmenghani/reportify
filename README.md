@@ -1,1 +1,7 @@
 # reportify
+
+python -m venv venv
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+venv\Scripts\activate
